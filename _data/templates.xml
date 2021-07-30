@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="public" title="deku_usernotes_index" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[<xf:title>{{ phrase('deku_usernotes_notes_title', {'username': $xf.visitor.username}) }}</xf:title>
+
+<div class="block">
+	<div class="block-container">
+		<div class="block-body">
+			<xf:form action="{{ link('user-notes/save') }}">
+				<xf:editor name="notes" value="{$notes}"/>
+				<xf:submitrow icon="save"/>
+			</xf:form>
+		</div>
+	</div>
+</div>]]></template>
+</templates>

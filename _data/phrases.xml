@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="deku_usernotes_menu_link" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[Notes]]></phrase>
+  <phrase title="deku_usernotes_notes_title" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[{username}'s Notes]]></phrase>
+  <phrase title="deku_usernotes_save_note" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[Save note]]></phrase>
+  <phrase title="permission.deku_user_notes_can_create" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[Can use notes system?]]></phrase>
+  <phrase title="permission_interface.deku_user_notes_permissions_group" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[[deku] User Notes]]></phrase>
+</phrases>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+  <permission permission_group_id="deku_user_notes" permission_id="can_create" permission_type="flag" interface_group_id="deku_user_notes_permissions_group" display_order="1"/>
+</permissions>

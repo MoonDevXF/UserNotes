@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public" template="account_visitor_menu" modification_key="deku_usernotes_visitior_menu" description="Adding a tab to the visitor menu" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<!--[XF:account_links:bottom]-->]]></find>
+    <replace><![CDATA[$0
+<li><a href="{{ link('user-notes') }}" class="menu-linkRow">{{ phrase('deku_usernotes_menu_link') }}</a></li>]]></replace>
+  </modification>
+</template_modifications>

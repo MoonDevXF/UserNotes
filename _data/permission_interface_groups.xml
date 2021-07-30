@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permission_interface_groups>
+  <interface_group interface_group_id="deku_user_notes_permissions_group" display_order="2" is_moderator="0"/>
+</permission_interface_groups>

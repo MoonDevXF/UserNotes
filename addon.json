@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "",
+    "title": "User Notes",
+    "description": "This plugin adds the ability for users to create notes and store any information in them",
+    "version_id": 1000030,
+    "version_string": "1.0.0 Beta",
+    "dev": "MoonDev Studios",
+    "dev_url": "https://moondev.ru/",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "Deku": "https://t.me/deku_fx"
+    },
+    "require": [],
+    "icon": "fa-book-open"
+}
